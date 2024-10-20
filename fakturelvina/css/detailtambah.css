@@ -1,0 +1,93 @@
+body {
+    background-color: #ffffff;
+}
+
+.faktur-ubah {
+    background-color: #d7edff;
+    box-shadow: 0px 0px 15px rgb(254, 254, 255);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.overlap-group-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text-wrapper-13 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.icon-search {
+    width: 20px;
+    height: 20px;
+}
+
+.garuda-universal {
+    width: 100px;
+    display: block;
+    margin: 20px auto;
+}
+
+form {
+    margin-top: 20px;
+}
+
+fieldset {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+legend {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.col-md-6 {
+    margin-bottom: 10px;
+}
+
+.tambah {
+    display: inline-block;
+    background-color: #99ceff;
+    color: #fff;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.tambah:hover {
+    background-color: #58a9ff;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.hapus, .edit {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.hapus:hover, .edit:hover {
+    text-decoration: underline;
+}
+
+.rectangle-12 {
+    height: 50px;
+    background-color: #8bb3df;
+    border-radius: 0 0 10px 10px;
+    margin-top: 20px;
+}

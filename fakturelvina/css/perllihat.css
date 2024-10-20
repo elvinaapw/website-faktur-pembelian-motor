@@ -1,0 +1,464 @@
+.perlengkapan-lihat {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .perlengkapan-lihat .div {
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    background: linear-gradient(
+      180deg,
+      rgb(228.08, 248.54, 255) 0%,
+      rgb(255, 255, 255) 40.87%,
+      rgb(224.04, 246.22, 253.23) 100%
+    );
+    width: 1280px;
+    height: 832px;
+    position: relative;
+  }
+  
+  .perlengkapan-lihat .overlap {
+    position: absolute;
+    width: 838px;
+    height: 230px;
+    top: 337px;
+    left: 365px;
+  }
+  
+  .perlengkapan-lihat .rectangle {
+    width: 826px;
+    height: 230px;
+    top: 0;
+    left: 0;
+    background: linear-gradient(
+      180deg,
+      rgb(182.55, 213.12, 222.77) 0%,
+      rgba(182.55, 213.12, 222.77, 0) 30.17%,
+      rgb(255, 255, 255) 49.67%
+    );
+    position: absolute;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .perlengkapan-lihat .rectangle-2 {
+    width: 197px;
+    height: 26px;
+    top: 18px;
+    left: 8px;
+    background-color: #e5f2f7;
+    position: absolute;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  
+  .perlengkapan-lihat .line {
+    top: 10px;
+    left: 215px;
+    position: absolute;
+    width: 1px;
+    height: 41px;
+    object-fit: cover;
+  }
+  
+  .perlengkapan-lihat .img {
+    top: 8px;
+    left: 697px;
+    position: absolute;
+    width: 1px;
+    height: 41px;
+    object-fit: cover;
+  }
+  
+  .perlengkapan-lihat .line-2 {
+    top: 10px;
+    left: 450px;
+    position: absolute;
+    width: 1px;
+    height: 41px;
+    object-fit: cover;
+  }
+  
+  .perlengkapan-lihat .group {
+    position: absolute;
+    width: 28px;
+    height: 27px;
+    top: 78px;
+    left: 766px;
+    background-color: #fd4848;
+    border-radius: 50px;
+  }
+  
+  .perlengkapan-lihat .iconly-light-delete {
+    position: absolute;
+    width: 23px;
+    height: 22px;
+    top: 3px;
+    left: 2px;
+  }
+  
+  .perlengkapan-lihat .iconly-light-edit-wrapper {
+    position: absolute;
+    width: 28px;
+    height: 27px;
+    top: 78px;
+    left: 714px;
+    background-color: #10ed41;
+    border-radius: 50px;
+  }
+  
+  .perlengkapan-lihat .iconly-light-edit {
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    top: 3px;
+    left: 3px;
+  }
+  
+  .perlengkapan-lihat .overlap-group-wrapper {
+    position: absolute;
+    width: 407px;
+    height: 52px;
+    top: 57px;
+    left: 367px;
+  }
+  
+  .perlengkapan-lihat .overlap-group {
+    position: relative;
+    width: 405px;
+    height: 52px;
+    background-color: #d1d1d1;
+    border-radius: 30px;
+  }
+  
+  .perlengkapan-lihat .text-wrapper-5 {
+    position: absolute;
+    width: 232px;
+    top: 12px;
+    left: 25px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .perlengkapan-lihat .icon-search {
+    position: absolute;
+    width: 27px;
+    height: 29px;
+    top: 12px;
+    left: 356px;
+  }
+  
+  .perlengkapan-lihat .group-2 {
+    position: absolute;
+    width: 248px;
+    height: 39px;
+    top: 286px;
+    left: 363px;
+  }
+  
+  .perlengkapan-lihat .text-wrapper-6 {
+    position: absolute;
+    width: 216px;
+    height: 39px;
+    top: 0;
+    left: 30px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .perlengkapan-lihat .img-2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 7px;
+    left: 0;
+  }
+  
+  .perlengkapan-lihat .overlap-2 {
+    position: absolute;
+    width: 311px;
+    height: 851px;
+    top: 0;
+    left: 0;
+    background-color: #e5f2f7;
+  }
+  
+  .perlengkapan-lihat .iconly-bold-profile-wrapper {
+    position: absolute;
+    width: 122px;
+    height: 122px;
+    top: 23px;
+    left: 90px;
+    background-color: #ffffff;
+    border-radius: 61px;
+  }
+  
+  .perlengkapan-lihat .iconly-bold-profile {
+    position: absolute;
+    width: 88px;
+    height: 90px;
+    top: 15px;
+    left: 17px;
+  }
+  
+  .perlengkapan-lihat .div-muistack-root {
+    position: absolute;
+    width: 290px;
+    height: 48px;
+    top: 161px;
+    left: 6px;
+  }
+  
+  .perlengkapan-lihat .heading {
+    position: absolute;
+    width: 290px;
+    height: 22px;
+    top: 0;
+    left: 0;
+  }
+  
+  .perlengkapan-lihat .text-wrapper-7 {
+    position: absolute;
+    width: 98px;
+    height: 16px;
+    top: 2px;
+    left: 95px;
+    font-family: "Public Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #212b36;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .perlengkapan-lihat .p-muitypography-root {
+    position: absolute;
+    width: 290px;
+    height: 22px;
+    top: 26px;
+    left: 0;
+  }
+  
+  .perlengkapan-lihat .text-wrapper-8 {
+    position: absolute;
+    width: 125px;
+    height: 16px;
+    top: 2px;
+    left: 82px;
+    font-family: "Public Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #919eab;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .perlengkapan-lihat .link {
+    position: absolute;
+    width: 124px;
+    height: 36px;
+    top: 226px;
+    left: 88px;
+    background-color: #212b36;
+    border-radius: 8px;
+  }
+  
+  .perlengkapan-lihat .ubah-profil {
+    position: absolute;
+    width: 101px;
+    height: 16px;
+    top: 9px;
+    left: 12px;
+    font-family: "Public Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .perlengkapan-lihat .group-3 {
+    position: absolute;
+    width: 255px;
+    height: 319px;
+    top: 392px;
+    left: 44px;
+  }
+  
+  .perlengkapan-lihat .group-4 {
+    position: absolute;
+    width: 255px;
+    height: 46px;
+    top: 0;
+    left: 2px;
+  }
+  
+  .perlengkapan-lihat .text-wrapper-9 {
+    position: absolute;
+    width: 216px;
+    height: 39px;
+    top: 7px;
+    left: 37px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .perlengkapan-lihat .iconly-light {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 0;
+    left: 0;
+  }
+  
+  .perlengkapan-lihat .group-5 {
+    position: absolute;
+    width: 253px;
+    height: 39px;
+    top: 64px;
+    left: 1px;
+  }
+  
+  .perlengkapan-lihat .iconly-light-user {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 8px;
+    left: 0;
+  }
+  
+  .perlengkapan-lihat .text-wrapper-10 {
+    position: absolute;
+    width: 216px;
+    height: 39px;
+    top: 0;
+    left: 35px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .perlengkapan-lihat .group-6 {
+    position: absolute;
+    width: 257px;
+    height: 39px;
+    top: 208px;
+    left: 0;
+  }
+  
+  .perlengkapan-lihat .text-wrapper-11 {
+    position: absolute;
+    width: 216px;
+    height: 39px;
+    top: 0;
+    left: 39px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .perlengkapan-lihat .group-7 {
+    position: absolute;
+    width: 256px;
+    height: 39px;
+    top: 136px;
+    left: 0;
+  }
+  
+  .perlengkapan-lihat .text-wrapper-12 {
+    position: absolute;
+    width: 216px;
+    height: 39px;
+    top: 0;
+    left: 38px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .perlengkapan-lihat .group-8 {
+    position: absolute;
+    width: 256px;
+    height: 39px;
+    top: 280px;
+    left: 0;
+  }
+  
+  .perlengkapan-lihat .iconly-broken-bag {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 5px;
+    left: 0;
+  }
+  
+  .perlengkapan-lihat .group-9 {
+    position: absolute;
+    width: 257px;
+    height: 39px;
+    top: 316px;
+    left: 47px;
+  }
+  
+  .perlengkapan-lihat .perlengkapan {
+    position: absolute;
+    width: 285px;
+    height: 39px;
+    top: 200px;
+    left: 373px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .perlengkapan-lihat .garuda-universal {
+    position: absolute;
+    width: 118px;
+    height: 118px;
+    top: 28px;
+    left: 1125px;
+    object-fit: cover;
+  }
+  
+  .form {
+    margin: 20px auto;
+    width: 80%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+  
